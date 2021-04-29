@@ -1,0 +1,8 @@
+coverage
+test
+mocks
+.editorconfig
+.babelrc
+.eslintrc
+.npmrc
+.nvmrc

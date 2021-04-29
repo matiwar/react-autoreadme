@@ -1,0 +1,22 @@
+{
+  "name": "frontend-react-autoreadme",
+  "version": "1.0.0",
+  "description": "React auto-documentation module.",
+  "author": "Front-end Core <frontendcore@mercadolibre.com>",
+  "main": "index.js",
+  "files": [
+    "src",
+    "config",
+    "index.js"
+  ],
+  "scripts": {},
+  "bin": {
+    "react-autoreadme": "./index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "outdent": "^0.5.0",
+    "react-docgen": "^2.20.1",
+    "shelljs": "^0.8.2"
+  }
+}
